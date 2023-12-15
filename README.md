@@ -38,8 +38,6 @@ This video demonstrates how to use the README Generator and showcases the genera
 
 ## Sample README
 
-https://app.screencastify.com/v2/watch/x3Km8dVgxfPaObiItXhQ
-
 This sample README shows the structure and content generated based on user input.
 
 ## Credits
