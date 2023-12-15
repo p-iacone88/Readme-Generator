@@ -40,6 +40,8 @@ This video demonstrates how to use the README Generator and showcases the genera
 
 This sample README shows the structure and content generated based on user input.
 
+![Screenshot 2023-12-15 at 4 02 47 PM](https://github.com/p-iacone88/Readme-Generator/assets/50248763/f8c08d4c-39a0-42a5-bcd1-1799f8196aca)
+
 ## Credits
 
 This project was inspired by the UCF Coding Boot Camp Module 9 Challenge.
