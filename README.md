@@ -6,8 +6,8 @@ This project is a command-line application that generates a professional README.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Walkthrough Video](#walkthroughvideo)
-- [Sample README](#samplereadme)
+- [Walkthrough Video](#walkthrough-video)
+- [Sample README](#sample-readme)
 - [Credits](#credits)
 
 ## Installation
